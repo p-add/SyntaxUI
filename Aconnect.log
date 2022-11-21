@@ -1,0 +1,74 @@
+HLOCK & ACONNECT
+LOG> Version 2.7.2
+LOG> Version 115
+LOG> 
+LOG> 
+LOG> 
+LOG> 
+LOG> Connection Attempted
+LOG> dirprintconsole<"connect Using" Opt-connect /conn -type>
+LOG> 
+LOG> Connection GW <4>
+LOG> 
+LOG> Connection Attempt Failed
+LOG> dirprintconsole<"Connecting on Line 4" () -re ,, -output >
+LOG> dirprintconsole<"connect Using" Opt-connect /conn -type & /conn.type ~= 4 >
+LOG> 
+LOG> Connection GW <27.77>
+LOG> Connection Attempt Success
+LOG> 
+LOG> sui(login)
+LOG> 
+LOG> ===========================================================
+LOG> 				   A-CONNECT
+LOG> 				User Interface v2
+LOG>              
+LOG> 
+LOG>             	Username: <UNVAR>
+LOG>            		Password: <PWVAR>
+LOG> 
+LOG>          Press "F5" if you forgot your password
+LOG> 
+LOG> ===========================================================
+LOG> 
+LOG> Login(Access Granted)
+LOG> 
+LOG> Getting Server Variables
+LOG> Getting Obfuscation
+LOG> Getting Files
+LOG> 
+LOG> Checking certificate
+LOG\AFound.crt> Issued to AFOUNDATION
+LOG\AFound.crt> Issued by Arts Certification
+LOG\AFound.crt> Vaild
+LOG\AFound.crt> Signature is OK
+LOG\AFound.crt> Issuer Approved
+LOG\AFound.crt> Certificate verified
+LOG> Uploading content [host -> client]
+LOG> 
+LOG> 
+LOG> [==============================================================================================================================] 100% [[LS]()]
+LOG> 
+LOG> Connection, Login, Certificate Pass, & File Upload successful
+LOG> 
+LOG> [ACEVENT> Status Online]
+LOG> 
+LOG> encoded
+LOG> encoded
+LOG> encoded
+LOG> encoded
+LOG> encoded
+LOG> encoded
+LOG> encoded
+LOG> encoded
+LOG> encoded
+LOG> encoded
+LOG> encoded
+LOG> 
+LOG> [ACEVENT> Shutoff Recived]
+LOG> 
+LOG> Ending session
+LOG> 
+LOG> Saving Progress
+LOG> [==============================================================================================================================] 100% [[LS]()]
+LOG> sighup 
