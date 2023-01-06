@@ -1,14 +1,14 @@
 # Syntax 
 
-## VERSION 3
-
-## SYNAPSE X ONLY!
-
 CREATED BY `CHRISTOHPER CRIPPIN`
 
 EDITED BY `HYKEEM BLASHINGTITS`
 
 PASSWORD `synx-syntaxv3`
+
+## VERSION 3
+
+# SYNAPSE X ONLY!
 
 ## Looking for Slave Ship?
 
